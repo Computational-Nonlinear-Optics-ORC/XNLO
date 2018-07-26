@@ -1,0 +1,543 @@
+-------------------------------------------------------------------------------
+                                  XNLO
+-------------------------------------------------------------------------------
+Using config file path ./800nm_ourLaser/changingPulseLength/5fs.txt
+Config_Settings::read_in: Info, 32 lines found and 23 lines read in from config file!
+Config_Settings::check_paths: Info, unique path ../output/800nm_ourLaser/changingPulseLength/000_dipole.bin found!
+-------------------------------------------------------------------------------
+Input Parameters and Settings:
+-------------------------------------------------------------------------------
+   atoms_per_worker:    2                    (int) The number of atoms per worker
+   x_min:               2.1027e-06           (double) The x_min value
+   x_max:               7.5e-05              (double) the x_max value
+   N_t:                 400000                (int) The N_t value
+   t_min:               -2e-13               (double) The t_min value
+   t_max:               2e-13              (double) The t_max value
+   P_av:                2.5             (double) The P_av value
+   RR:                  1000                 (double) The RR value
+   FWHM:                5e-15                (double) The FWHM value
+   l_0:                 8e-07              (double) The l_0 value
+   CEO:                 0                    (double) The CEO value
+   spot_radius:         4.8e-05              (double) The spot_radius value
+   alpha:               1.45                 (double) The alpha value
+   read_in_laser_pulse: 0                    (int) Switch to read in laser pulse
+   output_wavefunction: 0                    (int) Switch to output wavefunction
+   pend_path:           prepend                  (std::string) Pending switch
+   path_input_j0:       ../input/J0_zeros.bin    (default) (std::string) Path to J0_zeros.bin
+   path_laser_A_w_R:    ../../UPPE/output/000_1_A_w_R.bin        (std::string) Path to A_w_R of laser pulse input
+   path_laser_A_w_I:    ../../UPPE/output/000_1_A_w_I.bin        (std::string) Path to A_w_I of laser pulse input
+   path_laser_w_active: ../../UPPE/output/000_1_w_active.bin        (std::string) Path to w_active of laser pulse input
+   path_dipole:         ../output/800nm_ourLaser/changingPulseLength/000_dipole.bin     (std::string) Output path of dipole.txt
+   path_w:              ../output/800nm_ourLaser/changingPulseLength/000_w.bin          (std::string) Output path of w.txt
+   path_E:              ../output/800nm_ourLaser/changingPulseLength/000_E.bin          (std::string) Output path of E.bin
+   path_config_file:    ./800nm_ourLaser/changingPulseLength/5fs.txt                 (std::string) Passed in by '-cf' argument
+   path_config_log:     ../output/800nm_ourLaser/changingPulseLength/000_config_log.txt (std::string) Output path of config_log.txt
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Main Program:
+-------------------------------------------------------------------------------
+--- N_x: 126
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+step: 0
+step: 0
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+Energy: -15.7746 eV
+step: 0
+step: 0
+Energy: -15.7746 eV
+step: 0
+Energy: -15.7746 eV
+step: 0
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 10000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 20000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 30000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
+step: 40000
