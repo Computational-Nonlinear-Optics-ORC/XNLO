@@ -38,7 +38,7 @@ int main(int argc, char** argv){
     // Get config file path passed in from command line with "-cf" flag
     std::string args[argc];
     std::string config_file_path;
-    std::string config_XNLO_file_path = "./config_XNLO_test.txt";
+    std::string config_XNLO_file_path = "../configFiles/config_XNLO.txt";
     for (int i = 0; i < argc; i++) {
       args[i] = argv[i];
     }
