@@ -73,6 +73,14 @@ UPPE/bin/UPPE-v1-3-0
 UPPE/__pycache__/*
 XNLO/__pycache__/*
 
+#------------------------------#
+#- Exclude output directories -#
+#------------------------------#
+UPPE/output
+XNLO/output
+UPPE/output/*
+XNLO/output/*
+
 #---------#
 #- Misc. -#
 #---------#
