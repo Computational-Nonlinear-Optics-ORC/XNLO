@@ -149,7 +149,6 @@ set(SOURCES
    ${CMAKE_CURRENT_SOURCE_DIR}/src/capillary_fibre.cpp
    ${CMAKE_CURRENT_SOURCE_DIR}/src/config_settings.cpp
    ${CMAKE_CURRENT_SOURCE_DIR}/src/DHT.cpp
-   ${CMAKE_CURRENT_SOURCE_DIR}/src/dipole_moment.cpp
    ${CMAKE_CURRENT_SOURCE_DIR}/src/grid_rkr.cpp
    ${CMAKE_CURRENT_SOURCE_DIR}/src/grid_tw.cpp
    ${CMAKE_CURRENT_SOURCE_DIR}/src/IO.cpp
@@ -161,7 +160,6 @@ set(SOURCES
 )
 set(HEADERS
    ${HEADERS}
-   ${CMAKE_CURRENT_SOURCE_DIR}/src/dipole_moment.hpp
    ${CMAKE_CURRENT_SOURCE_DIR}/src/grid_tw.hpp
    ${CMAKE_CURRENT_SOURCE_DIR}/src/laser_pulse.hpp
    ${CMAKE_CURRENT_SOURCE_DIR}/src/maths_textbook.hpp
